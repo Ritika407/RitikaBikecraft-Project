@@ -1,0 +1,10 @@
+.bike
+{
+    background-color: #f2600c;
+    margin: auto;
+    width: 100px;
+    padding:20px;
+    background-attachment: no-repeat;
+    color:#cf8d08;
+    opacity: 0.5;
+}
